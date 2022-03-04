@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/04 14:32:50.000.659,=C:\Users\Hicham Laichi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/04 14:33:53.000.783,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Vcl Style Demo\main.dfm=C:\Users\Hicham Laichi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/04 14:33:53.000.783,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Vcl Style Demo\main.pas=C:\Users\Hicham Laichi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/04 14:34:20.000.940,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Vcl Style Demo\VclStylesDemo.dproj=C:\Users\Hicham Laichi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/04 15:30:15.000.328,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Vcl Style Demo\SaveForNextRun.dproj=C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Vcl Style Demo\VclStylesDemo.dproj</Transaction>
+    <Transaction>2022/03/04 15:32:44.894,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveInfoForNextRun.dproj=C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveForNextRun.dproj</Transaction>
+    <Transaction>2022/03/04 17:48:06.428,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveInfoNextRun.dproj=C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveInfoForNextRun.dproj</Transaction>
+    <Transaction>2022/03/04 17:48:25.943,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveInfoNextLogin.dproj=C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveInfoNextRun.dproj</Transaction>
+    <Transaction>2022/03/04 18:22:24.229,C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveMyInfo.dproj=C:\Users\Hicham Laichi\Documents\My Files\YT-Projects\Save info for the next run\SaveInfoNextLogin.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
